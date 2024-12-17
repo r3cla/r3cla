@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my template library** - [Here's one](https://github.com/r3cla/civiccanvas)
 
-- 🌱 I’m currently learning **System Analysis & Design, Database, Software Dev**
+- 🌱 I’m currently learning **System Analysis & Design, Database & Software Dev with The Open Polytechnic of New Zealand**
 
 - 📫 Feel free to flick me an email at **kiaora@logie.nz**
 
