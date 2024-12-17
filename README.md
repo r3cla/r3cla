@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Analysis & Design, Database, Software Dev**
 
-- 📫 How to reach me **kiaora@logie.nz**
+- 📫 Feel free to flick me an email at **kiaora@logie.nz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
