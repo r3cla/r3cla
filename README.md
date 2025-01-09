@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate developer from Aotearoa NZ</h3>
+<h3 align="center">A passionate fledgling developer from Aotearoa NZ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
 
