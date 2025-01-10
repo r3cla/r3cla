@@ -21,5 +21,3 @@
 <p><a href="https://ko-fi.com/logienz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="logienz" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&locale=en&layout=compact" alt="r3cla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3cla&show_icons=true&locale=en" alt="r3cla" /></p>
