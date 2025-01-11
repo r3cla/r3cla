@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
 
-- 🔭 I’m currently working on **my template library** (when i have time..) - [Here's one](https://github.com/r3cla/civiccanvas)
+- 🔭 I’m currently working on **little hobby projects** (when i have time..) - [Here's one](https://github.com/r3cla/civiccanvas), [here's another](https://github.com/r3cla/lootfilter)
 
 - 🌱 I’m currently studying (with The Open Polytechnic of New Zealand):
   - **System Analysis & Design**
