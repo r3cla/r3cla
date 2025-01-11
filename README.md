@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on **my template library** (when i have time..) - [Here's one](https://github.com/r3cla/civiccanvas)
 
 - 🌱 I’m currently studying (with The Open Polytechnic of New Zealand):
-- **System Analysis & Design**
-- **Database**
-- **Software Development**
-- **Project Management**
+  - **System Analysis & Design**
+  - **Database**
+  - **Software Development**
+  - **Project Management**
 
 - 📫 Feel free to flick me an email at **kiaora@logie.nz**
 
