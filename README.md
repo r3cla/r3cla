@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently studying (with The Open Polytechnic of New Zealand):
 - **System Analysis & Design**
-- **Database & Software Dev**
+- **Database**
+- **Software Development**
 - **Project Management**
 
 - 📫 Feel free to flick me an email at **kiaora@logie.nz**
