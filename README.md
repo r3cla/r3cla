@@ -11,8 +11,6 @@
   - **Software Development**
   - **Project Management**
 
-- 📫 Feel free to flick me an email at **kiaora@logie.nz**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://bsky.app/profile/logie.nz" target="blank"><img align="center" src="https://bsky.app/static/favicon-32x32.png" alt="Logie on Bsky" height="30" width="40" /></a>
