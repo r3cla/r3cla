@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,discord,docker,figma,git,github,githubactions,netlify,obsidian,py,react,supabase,svg,vscode,vite,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,discord,docker,figma,git,github,githubactions,netlify,obsidian,react,supabase,vscode,vite,windows&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/logienz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="logienz" /></a></p><br><br>
