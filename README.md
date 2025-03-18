@@ -16,7 +16,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,discord,docker,figma,git,github,githubactions,netlify,obsidian,react,supabase,vscode,vite,windows,mysql&theme=light&perline=6)](https://skillicons.dev)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="r3cla" /></p>
