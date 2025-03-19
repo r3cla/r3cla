@@ -10,10 +10,6 @@
   - **Database**
   - **Software Development**
   - **Project Management**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://bsky.app/profile/logie.nz" target="blank"><img align="center" src="https://bsky.app/static/favicon-32x32.png" alt="Logie on Bsky" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="r3cla" /></p>
