@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **little hobby projects** (when i have time..)
 
-- 🌱 I’m currently studying (with The Open Polytechnic of New Zealand):
+- 🌱 I’m also studying with The Open Polytechnic of New Zealand:
   - **System Analysis & Design**
   - **Database**
   - **Software Development**
