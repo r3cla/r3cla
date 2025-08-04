@@ -5,12 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
 
 - I’m currently working on **little hobby projects** (when i have time..)
-
-- I’m studying the following with The Open Polytechnic of Aotearoa:
-  - **System Analysis & Design**
-  - **Database**
+- I carry a New Zealand Diploma in Web Design & Development.
+- I’m studying the following with The Open Polytechnic of Aotearoa, as part of a Degree in IT:
+  - **Web Technologies**
+  - **Advanced Database**
   - **Software Development**
-  - **Project Management**
   - **Programming**
 
 <h3 align="left">Languages and Tools:</h3>
