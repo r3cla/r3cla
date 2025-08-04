@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate fledgling developer from Aotearoa NZ</h3>
+<h1 align="left">Hi o/</h1>
+<h3 align="left">A passionate fledgling developer from Aotearoa NZ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
 
@@ -12,6 +12,6 @@
   - **Project Management**
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="r3cla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="r3cla" /></p>
 
 <p>https://github.com/r3cla?tab=repositories</p>
