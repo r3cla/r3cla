@@ -1,5 +1,5 @@
 <h1 align="left">Hi o/</h1>
-<h3 align="left">A passionate fledgling developer from Aotearoa NZ</h3>
+<h3 align="left">I am a passionate fledgling developer from Aotearoa NZ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
 
