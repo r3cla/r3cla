@@ -10,7 +10,7 @@
   - **Web Technologies**
   - **Advanced Database**
   - **Software Engineering**
-  - **Current and Emerging Technologies**
+  - **Emerging Technologies**
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="r3cla" /></p>
