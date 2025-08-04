@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate fledgling developer from Aotearoa NZ</h3>
 
+https://github.com/r3cla?tab=repositories
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
 
 - 🔭 I’m currently working on **little hobby projects** (when i have time..)
