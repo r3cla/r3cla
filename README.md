@@ -9,8 +9,8 @@
 - I’m studying the following with The Open Polytechnic of Aotearoa, as part of a Degree in IT:
   - **Web Technologies**
   - **Advanced Database**
-  - **Software Development**
-  - **Programming**
+  - **Software Engineering**
+  - **Current and Emerging Technologies**
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="r3cla" /></p>
