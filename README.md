@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
 
-- 🔭 I’m currently working on **little hobby projects** (when i have time..)
+- I’m currently working on **little hobby projects** (when i have time..)
 
-- 🌱 I’m also studying with The Open Polytechnic of New Zealand:
+- I’m studying the following with The Open Polytechnic of Aotearoa:
   - **System Analysis & Design**
   - **Database**
   - **Software Development**
   - **Project Management**
+  - **Programming**
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3cla&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="r3cla" /></p>
