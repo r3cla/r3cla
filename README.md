@@ -6,7 +6,7 @@
 
 - I’m currently working on **little hobby projects** here on GitHub (when i have time..)
 - I carry a New Zealand Diploma in Web Design & Development.
-- I’m studying the following with The Open Polytechnic of Aotearoa, as part of a Degree in IT:
+- I’m studying the following with The Open Polytechnic of New Zealand, as part of a Degree in IT:
 
   - **Web Technologies**
   - **Advanced Database**
