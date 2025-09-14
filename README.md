@@ -1,5 +1,5 @@
 <h1 align="left">Hi o/</h1>
-<h3 align="left">Web developer from Aotearoa, NZ</h3>
+<h3 align="left">Web developer from Aotearoa - New Zealand</h3>
 <h4 align="left">I am passionate about providing affordable web services/solutions to local charities, non-profits and small businesses</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3cla&label=Profile%20views&color=0e75b6&style=flat" alt="r3cla" /> </p>
